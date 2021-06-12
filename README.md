@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manoj Rai
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manojthulung03@gmail.com
 
