@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Manoj Rai
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React js
+- 👋 Hello, I’m Manoj Rai.
+- 👀 I’m interested in web design and development.
+- 🌱 I’m on a journey to master ReactJS.
 - 💞️ I’m looking to collaborate on web projects.
 
 <!---
