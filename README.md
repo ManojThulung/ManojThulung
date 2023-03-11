@@ -1,7 +1,7 @@
-- 👋 Hello, I’m Manoj Rai.
+- 👋 Yoh! I’m Manoj Rai.
 - 👀 I’m interested in web design and development.
-- 🌱 I’m on a journey to master ReactJS.
-- 💞️ I’m looking to collaborate on web projects.
+- 🌱 I’m on a journey to master React ecosystem.
+- 💞️ I'm always open to discuss about your project and talk about new things😀.
 
 <!---
 ManojThulung/ManojThulung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
