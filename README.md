@@ -1,6 +1,6 @@
 - 👋 Yoh! I’m Manoj Rai.
 - 👀 I’m interested in web design and development.
-- 🌱 I’m on a journey to master React ecosystem.
+- 🌱 I’m on a journey to master Front-end development.
 - 💞️ I'm always open to discuss about your project and talk about new things😀.
 
 <!---
