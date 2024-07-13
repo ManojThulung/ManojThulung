@@ -10,7 +10,7 @@ I'm a front-end developer passionate about arts and technology, always exploring
 - 💬 Ask me about front-end development and creative design.
 - 📫 How to reach me: manojthulung03@gmail.com/[twitter](https://x.com/manojrai0)/[linkedIn](https://www.linkedin.com/in/manojrai1/)
 - 😄 Pronouns: Frontend Developer
-- ⚡ Fun fact: I love sketching and painting portrait. Checkout some of my art works [my-arts](https://manojrai.info.np/art-works)
+- ⚡ Fun fact: I love sketching and painting portrait. Checkout some of my art works [my-arts](https://manojrai.info.np/art-gallery)
 
 
 ## Tech Stack
