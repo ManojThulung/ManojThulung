@@ -17,6 +17,8 @@ I'm a front-end developer passionate about arts and technology, always exploring
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind)](https://skillicons.dev)
 
 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=manojthulung&theme=dark)](https://git.io/streak-stats)
 
 
